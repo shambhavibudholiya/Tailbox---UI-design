@@ -1,0 +1,21 @@
+.light-bg{
+    background: lavenderblush;
+}
+
+.relative{
+    position: relative;
+}
+
+.large-bg{
+    position: absolute;
+    font-size: 16em;
+    white-space: nowrap;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0.07;
+}
+.footer-bg{
+    background: lavenderblush;
+}
+.color{
+    background: mintcream;
+}
